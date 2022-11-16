@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Pwicherski' GitHub stats](https://github-readme-stats.vercel.app/api?username=pwicherski&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwicherski&layout=compact&theme=dark)
+
 <!--
 **pwicherski/pwicherski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
